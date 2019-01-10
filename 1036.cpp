@@ -33,6 +33,5 @@ int main()
 	{
 		cout << x; i++;
 	}
-
 	return 0;
 }
